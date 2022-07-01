@@ -1,0 +1,31 @@
+body{
+  background-color: #F3E1C0;
+}
+
+h1{
+  font-size: 8rem;
+  font-family: "Bangers";
+  font-weight: normal;
+  color: #47026c;
+  text-shadow: 3px 0 #343a40;
+}
+
+p{
+  color: #47026c;
+  font-family: "Gloria Hallelujah";
+  font-size: 2rem;
+}
+
+img{
+  width: 90%;
+}
+
+.container{
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  display: inline-block;
+  margin: 20px 50px 20px;
+}
